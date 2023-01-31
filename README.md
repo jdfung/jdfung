@@ -16,8 +16,11 @@
 
 <br>
 
-- A passionate learner of any kind
-- I am seeking an internship opportunity to further enhance my skills and gain practical experience in the industry.
+I am a final-year software engineering student with a passion for creating efficient and innovative software solutions. My academic background and personal projects have provided me with a solid foundation in programming languages such as Java, Python, and C++, as well as experience in developing software applications and web development.
+
+Outside of the classroom, I enjoy exploring new technologies and expanding my knowledge in software engineering. I am also an avid gamer and enjoy developing my own small games and applications in my free time.
+
+I am eager to start my professional career and am looking for an internship opportunity to further enhance my skills and gain practical experience in the industry. I am a hardworking individual who is constantly seeking to expand my knowledge and improve my skills, and I am confident that I can make a valuable contribution to any organization.
 
 <br><br>
 
