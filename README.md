@@ -12,7 +12,7 @@
 	
 ## **About me**
 
-<picture> <img align="right" src="https://github.com/jdfung/jdfung/blob/main/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/jdfung/jdfung/blob/main/Right_Side.gif" width = 250px height = 300px></picture>
 
 <br>
 
