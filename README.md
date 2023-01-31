@@ -50,8 +50,8 @@
     
 - **Databases**:
 	
-	![MySQL](https://img.shields.io/badge/-MySQL%20-000?for-the-badge&logo=MySQL)
-	![SQLite](https://img.shields.io/badge/-SQLite%20-000?for-the-badge&logo=SQLite)
+	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
     
 <br>
 
