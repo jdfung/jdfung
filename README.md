@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, My name is Fung Jie Deng</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/jdfung/jdfung/blob/main/waving.gif">, My name is Fung Jie Deng</h1>
 <h4 align="center">I'm a Final Year software engineering students at Xiamen University Malaysia</h4>
 <h4>View my <a href="" target="_blank">resume</a> to know more about me</h4>
 </div>
@@ -99,7 +99,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/jdfung/jdfung/blob/main/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
