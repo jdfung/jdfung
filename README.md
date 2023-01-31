@@ -49,8 +49,9 @@
 <br>   
     
 - **Databases**:
-	![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-	![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+	
+	![MySQL](https://img.shields.io/badge/-MySQL-000?for-the-badge&logo=MySQL)
+	![SQLite](https://img.shields.io/badge/-SQLite-000?for-the-badge&logo=SQLite)
     
 <br>
 
