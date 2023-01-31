@@ -94,7 +94,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/jdfung/jdfung/blob/main/handshake.gif" width ="80">
+## <img src="https://github.com/jdfung/jdfung/blob/main/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
