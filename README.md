@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, My name is Fung Jie Deng</h1>
 <h4 align="center">I'm a Final Year software engineering students at Xiamen University Malaysia</h4>
-<h4>see my <a href="" target="_blank">resume</a> for more</h4>
+<h4>View my <a href="" target="_blank">resume</a> to know more about me</h4>
 </div>
 
 <br>
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/jdfung/">
   <img src="https://github-readme-stats.vercel.app/api?username=jdfung&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jdfung&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xjdfung"/>
 
