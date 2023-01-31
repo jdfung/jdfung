@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Fung Jie Deng</h1>
-<h4 align="center">a Final Year software engineering students at Xiamen University, Malaysia see my <a href="" target="_blank">resume</a> for more</h4>
+<h4 align="center">A Final Year software engineering students at Xiamen University, Malaysia see my <a href="" target="_blank">resume</a> for more</h4>
 </div>
 
 <br>
@@ -45,6 +45,12 @@
    ![JSP](https://img.shields.io/badge/-JSP-5C2D91?style=for-the-badge&logo=&logoColor=blue)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+	
+<br>   
+    
+- **Databases**:
+	![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+	![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
     
 <br>
 
