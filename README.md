@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/jdfung/jdfung/blob/main/waving.gif">, My name is Fung Jie Deng</h1>
 <h4 align="center">I'm a Final Year software engineering students from Xiamen University Malaysia</h4>
-<h4>View my <a href="https://github.com/jdfung/jdfung/blob/main/MyResume.pdf" target="_blank">Resume</a> or <a href="https://jdfung.github.io/" target="_blank">Portfolio</a> to know more about me</h4>
+<h4>View my <a href="https://github.com/jdfung/jdfung/blob/main/Fung_Jie_Deng_Resume.pdf" target="_blank">Resume</a> or <a href="https://jdfung.github.io/" target="_blank">Portfolio</a> to know more about me</h4>
 </div>
 
 <br>
