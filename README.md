@@ -20,7 +20,7 @@
 
 <p align="justify">Outside of the classroom, I enjoy exploring new technologies and expanding my knowledge in software engineering. I am also an avid gamer and enjoy playing and discover any advancement in game developments. I've been developing a few small games and applications in regards to my passion.</p>
 
-<p align="justify">I am eager to start my professional career and am looking for an internship opportunity to further enhance my skills and gain practical experience in the industry. I am a hardworking individual who is constantly seeking to expand my knowledge and improve my skills, and I am confident that I can make a valuable contribution to any organization.</p>
+<p align="justify">I am eager to start my professional career and am looking for a Full-Time opportunity to further enhance my skills and gain practical experience in the industry. I am a hardworking individual who is constantly seeking to expand my knowledge and improve my skills, and I am confident that I can make a valuable contribution to any organization.</p>
 
 <br><br>
 
